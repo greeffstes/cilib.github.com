@@ -9,10 +9,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : Computational Intelligence Library
 author :
-  name : Name Lastname
-  email : blah@email.test
+  name : CIRG
+  email : cilib-dev@groups.google.com
   github : username
   twitter : username
   feedburner : feedname
@@ -64,7 +64,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
       short_name : jekyllbootstrap
     livefyre :
